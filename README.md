@@ -41,12 +41,12 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/iagosttn" title="Perfil do Iago">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagosttn&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://www.linkedin.com/in/iago-santana-098992288/)]
-[![Gmail Badge](iagosantanasoares06@gmail.com)]
-[![GitHub](https://github.com/iagosttn)]
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/iago-santana-098992288/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail)](mailto:iagosantanasoares06@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/iagosttn)
