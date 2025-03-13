@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Developer system } no {Senai} e curso na {python}.
-- 💼 Aplicando para o Senai.
+- 🎓 Concluido {Developer system } no {Senai} e curso na {python}.
+- 💼 Aolicando Freelancers
 - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
 ## Minhas Skills
