@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Concluido {Developer system } no {Senai} e curso na {python}.
-- 💼 Aolicando Freelancers
+- 💼 Aplicando Freelancers
 - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
 ## Minhas Skills
